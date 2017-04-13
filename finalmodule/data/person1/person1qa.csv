@@ -1,0 +1,17 @@
+Sno,Inference,Answer,MustBeAnswer,
+1,Does Listening to music boost your productivity while using terminal/coding ?,0,1,No Match
+2,+ACI-Do you accept that if you see lot of facebook, you dont read papers ?+ACI-,1,1,Match
+3,Listening to music doesnt change or have any effect on your positive or negative mood ?,0,1,No Match
+4,Seeing Facebook decreases your sleep quality ?,1,0,No Match
+5,Sleeping and coding are directly related ?,1,1,Match
+6,Listening to music increases your distance of walking ?,1,1,Match
+7,Using Gmail takes your mind off facebook ?,1,1,Match
+8,Music and papers have an inverse effect on each other ?,0,0,Match
+9,+ACI-More the distance you walk, you have a less disturbed sleep ?+ACI-,1,1,Match
+10,Listing to music increases sleep quality ?,1,1,Match
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,Percentage ,70
